@@ -5,7 +5,6 @@
 **- Decription :** _it's a temporary job which working with [BurgerShot](https://fr.gta5-mods.com/maps/gtaiv-burgershot-interior-sp-and-fivem). You can change all blips, peds, coords, ... in_ config.lua.
 
 **- Installation :**
-
     - put **burgershot_script/necessary.burger.png** and meat.png in **resources\[qb]\qb-inventory\html\images**.
     
     - and write this in your **server.cfg** :
