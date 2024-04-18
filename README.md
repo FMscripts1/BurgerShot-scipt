@@ -15,7 +15,7 @@
 ## Dependency
 [QBCore Free | Github](https://github.com/qbcore-framework/qb-core)
 
-###Socials
+##Socials
 
 **Discord :** fmscripts
 
