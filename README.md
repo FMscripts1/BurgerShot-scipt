@@ -6,9 +6,9 @@
 
 **- Installation :**
 
-    - put **burgershot_script/necessary.burger.png** and meat.png in **resources\[qb]\qb-inventory\html\images**.
+- put **burgershot_script/necessary.burger.png** and meat.png in **resources\[qb]\qb-inventory\html\images**.
     
-    - and write this in your **server.cfg** :
+- and write this in your **server.cfg** :
 
         start burgershot_script
 
