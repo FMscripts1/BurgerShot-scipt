@@ -10,7 +10,6 @@
     
     - and write this in your **server.cfg** :
 
-    
         start burgershot_script
 
 ## Dependency
